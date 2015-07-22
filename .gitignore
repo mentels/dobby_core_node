@@ -10,3 +10,5 @@ _rel/dobby_core_node
 rebar
 id_rsa*
 priv/erl_sshd
+Mnesia*
+log
