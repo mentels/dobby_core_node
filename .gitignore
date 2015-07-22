@@ -1,0 +1,12 @@
+.eunit
+deps
+*.o
+*.beam
+*.plt
+erl_crash.dump
+ebin
+_rel/dobby_core_node
+.rebar
+rebar
+id_rsa*
+priv/erl_sshd
