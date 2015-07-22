@@ -1,0 +1,13 @@
+{application, dobby_core_node,
+ [
+  {description, ""},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [
+                  lager,
+                  erl_sshd,
+                  mnesia,
+                  dobby
+                 ]},
+  {env, []}
+ ]}.
