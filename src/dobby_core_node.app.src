@@ -6,7 +6,6 @@
   {applications, [
                   lager,
                   erl_sshd,
-                  mnesia,
                   dobby
                  ]},
   {env, []}
